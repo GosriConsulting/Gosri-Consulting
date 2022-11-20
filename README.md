@@ -1,1 +1,1 @@
-# GosriConsulting.gitthub.io
+# GosriConsulting.github.io
